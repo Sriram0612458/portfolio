@@ -1,0 +1,318 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.sa {
+    border-style: solid;
+    border-width: 2px;
+    padding: 2px;
+    font-weight: bold;
+    border-color: #4b6cc1;
+
+}
+
+.sb {
+    color: white !important;
+    font-family: "Roboto";
+}
+
+.sc {
+    background-color: #191a1d;
+    height: 80vh;
+
+
+}
+
+.sd {
+    width: 250px;
+}
+
+.se {
+    color: white;
+    font-family: "italic";
+    font-weight: 500;
+}
+
+.sh {
+    color: #4b6cc1;
+}
+
+.sf {
+    color: #8aa5b1;
+    font-size: 22px;
+}
+
+.sg {
+    background-color: #4b6cc1;
+    color: white;
+    border-radius: 8px;
+    border-width: 0px;
+}
+
+.color {
+    color: white !important;
+    font-family: "Roboto";
+}
+
+.con {
+    background-color: #191a1d;
+    height: 100vh;
+
+
+}
+
+.wid {
+    width: 250px;
+}
+
+.hed1 {
+    color: white;
+    font-family: "italic";
+    font-weight: 500;
+}
+
+.high {
+    color: #4b6cc1;
+}
+
+.para1 {
+    color: #8aa5b1;
+    font-size: 22px;
+}
+
+.b1 {
+    background-color: #4b6cc1;
+    color: white;
+    border-radius: 8px;
+}
+
+
+.ba {
+    background-color: #3e4c59;
+}
+
+.bb {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.bc {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.bd {
+    color: white;
+    font-family: "Roboto";
+}
+
+.be {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.bf {
+    color: #cced00;
+    font-family: "Roboto";
+}
+
+.bg {
+    font-size: 20px;
+}
+
+.bh {
+    color: #cced00;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.bi {
+    color: white;
+    font-family: "Roboto";
+
+}
+
+.a {
+    background-color: #323f4b;
+}
+
+.b {
+    width: 100%;
+}
+
+.c {
+    font-family: "Roboto";
+    color: #cced00;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.d {
+    font-family: "Roboto";
+    font-weight: 700;
+    color: white;
+}
+
+.e {
+    color: #9aa5b1;
+    font-family: "bree Serif";
+    font-size: 18px;
+}
+
+.f {
+    background-color: #1f2933;
+}
+
+.g {
+    color: white;
+}
+
+.h {
+    background-color: #323f4b;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.aa {
+    background-color: #52606d;
+}
+
+.ab {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.ac {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.ad {
+    color: white;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.ae {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.af {
+    color: #cced00;
+    font-family: "Roboto";
+}
+
+.ag {
+    font-size: 20px;
+}
+
+.ah {
+    color: #cced00;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.ai {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.hj {
+    width: 20%;
+}
+
+.da {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-size: cover;
+    height: 50vh;
+}
+
+.db {
+
+    color: white;
+}
+
+.dc {
+    border-color: white;
+    border-width: 1px;
+}
+
+.dd {
+    color: white;
+    font-size: 30px;
+
+}
+
+.de {
+    color: white;
+    font-family: "bre Serif";
+}
+
+.ea {
+    background-color: #1f2933;
+}
+
+.ec {
+    color: #cced00;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.ed {
+    color: white;
+}
+
+.eb {
+    background-color: #323f4b;
+}
+
+.ee {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 18px;
+    margin-top: 8px;
+}
+
+.eg {
+    border-radius: 80px;
+    width: 100px;
+    margin-top: 10px;
+}
+
+.ef {
+    color: white;
+}
+
+.fa {
+    background-color: #0d2436;
+}
+
+.fb {
+    border-radius: 60px;
+    width: 100px;
+}
+
+.fd {
+    color: #cced00;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.fc {
+    color: #5a7184;
+    font-family: "Roboto";
+
+}
+
+.fg {
+    background-color: #001c32;
+}
+
+.fh {
+    color: #9aa5b1;
+    font-family: "Roboto";
+}
